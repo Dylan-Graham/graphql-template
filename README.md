@@ -14,11 +14,11 @@ Custom Middleware: Extend functionality with custom middleware for handling cros
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/graphql-fastapi-template.git
+git clone https://github.com/Dylan-Graham/graphql-template.git
 Navigate into the project directory:
 bash
 Copy code
-cd graphql-fastapi-template
+cd graphql-template
 Install dependencies:
 bash
 Copy code
