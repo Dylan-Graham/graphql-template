@@ -22,7 +22,7 @@ models/: Contains models.\
 resolvers/: Contains resolver functions for GraphQL queries and mutations.\
 main.py: Entry point for the FastAPI application.\
 requirements.txt: Lists all Python dependencies required for the project.\
-README.md: Documentation for the project.\
+README.md: Documentation for the project.
 
 ## Usage
 GraphQL Endpoint
