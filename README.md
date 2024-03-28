@@ -3,21 +3,16 @@ This template provides a starting point for building GraphQL APIs using Python a
 
 ## Getting Started
 Clone the repository:\
-bash\
-Copy code\
-git clone https://github.com/Dylan-Graham/graphql-template.git\
+git clone https://github.com/Dylan-Graham/graphql-template.git\\
+
 Navigate into the project directory:\
-bash\
-Copy code\
-cd graphql-template\
+cd graphql-template\\
+
 Install dependencies:\
-bash\
-Copy code\
-pip install -r requirements.txt\
+pip install -r requirements.txt\\
+
 Run the application:\
-bash\
-Copy code\
-python3 main.py\
+python3 main.py\\
 The application should now be running locally. Visit http://localhost:8000/graphql to access the GraphQL Playground and interact with the API.
 
 ## Project Structure
