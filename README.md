@@ -3,7 +3,7 @@ This template provides a starting point for building GraphQL APIs using Python a
 
 ## Getting Started
 Clone the repository:\
-git clone https://github.com/Dylan-Graham/graphql-template.git\\
+git clone https://github.com/Dylan-Graham/graphql-template.git
 
 Navigate into the project directory:\
 cd graphql-template
