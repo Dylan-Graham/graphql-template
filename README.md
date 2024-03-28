@@ -26,15 +26,14 @@ pip install -r requirements.txt
 Run the application:
 bash
 Copy code
-uvicorn main:app --reload
+python3 main.py
 The application should now be running locally. Visit http://localhost:8000 to access the GraphQL Playground and interact with the API.
 
 ## Project Structure
 app/: Contains the main application code.
-schemas/: Defines Pydantic models for input validation and serialization.
+database/: Contains connections to SQLite database.
+models/: Contains models.
 resolvers/: Contains resolver functions for GraphQL queries and mutations.
-middlewares/: Custom middleware implementations.
-graphql/: GraphQL schema definition.
 main.py: Entry point for the FastAPI application.
 requirements.txt: Lists all Python dependencies required for the project.
 README.md: Documentation for the project.
